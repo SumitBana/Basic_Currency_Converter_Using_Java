@@ -1,5 +1,5 @@
-# Currency_Converter_Using_Java
-
+# Currency Converter Using Java
+## RUN THE CurrencyConverterGUI.java
 This Java program performs currency conversion using the Open Exchange Rates API. It allows users to convert an amount from a base currency (USD by default) to a target currency of their choice.
 
 ## Prerequisites
